@@ -5,7 +5,6 @@ img {
 }
 
 .imagen {
-    margin-top: 200;
     transform:rotate(90deg);
     -ms-transform:rotate(90deg); /* IE 9 */
     -webkit-transform:rotate(90deg); /* Opera, Chrome, and Safari */
